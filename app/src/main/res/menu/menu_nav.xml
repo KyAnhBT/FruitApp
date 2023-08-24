@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_fruit"
+            android:title="@string/nav_fruit"
+            android:icon="@drawable/melon"/>
+
+        <item android:id="@+id/nav_learn"
+            android:title="@string/nav_learn"
+            android:icon="@drawable/brain"/>
+
+        <item android:id="@+id/nav_game"
+            android:title="@string/nav_game"
+            android:icon="@drawable/game"/>
+
+        <item android:id="@+id/nav_blog"
+            android:title="@string/nav_blog"
+            android:icon="@drawable/blog"/>
+
+        <item android:id="@+id/nav_logout"
+            android:title="@string/nav_logout"
+            android:icon="@drawable/logout"/>
+    </group>
+</menu>

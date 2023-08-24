@@ -1,0 +1,487 @@
+<resources>
+    <string name="app_name">FruitApp</string>
+    <string name="passionfruit">
+        Passion fruit is one fruit where the seeds are eaten, and the skin
+        is discarded.
+        Purple passion fruit is native to Argentina, Brazil and Paraguay
+        while yellow passion fruit are native to the Amazon basin</string>
+    <string name="apple">
+        Everyone knows that apple pie is often associated with being American, but this delicious dessert is actually European.
+        The very first recipe for apple pie came from England hundreds of years ago. In addition, the vast majority of apple varieties are not even native to North America.
+    </string>
+    <string name="avocado">
+        There are 10 grams of fiber in one medium-sized avocado. There are two grams of fiber in one serving, which is one-fifth of a medium avocado. It contains both insoluble and soluble fiber.
+        Insoluble fiber (which speeds up the passage of foods) accounts for 75%, with the remaining 25% as soluble fiber (the fiber that makes you feel full).
+    </string>
+    <string name="banana">
+       Bananas are sterile; you can’t sow seeds and grow them. Bananas are grown by cutting a piece from another plant, sort of cloning.
+        Which means the banana you are eating today is genetically the same as the banana your grandfather ate.
+    </string>
+    <string name="coconut">
+       Coconut oils contain MCT’s, a medium-chain triglycerides which are easy to digest. The oil is a source of energy and has an accelerating effect on metabolism. Coconut oils are very healthy and good for your heart.
+    </string>
+    <string name="cherry">
+      Despite what we learned in poems as kids, there is no factual evidence that our first president chopped down any of these fruit-bearing trees. The myth was created by Parson Mason Weems, who wrote the story in a biography of President Washington to illustrate his integrity and honesty.
+    </string>
+    <string name="dragonfruit">
+    The natural pigments of Dragon Fruit flesh can be used as dye or as ingredients in cosmetics. The night-blooming fruit is in season throughout the summer, with August and September being their peak months.
+    </string>
+    <string name="durian">
+    Durian contains protein, thiamine, manganese, potassium, riboflavin, copper, magnesium, folate and niacin. It is also rich in healthy plant compounds including anthocyanins, carotenoids, polyphenols and flavonoids. All of these function as antioxidants. Durian reduces cancer risk due to its antioxidant content, prevents heart disease, fights infection and lowers blood sugar due to its lower glycemic index.
+    </string>
+    <string name="grape">
+    Grapes grow on vines that can produce up to 20 pounds of fruit each year. Unlike most plants, grapes can tolerate cold winters. 97% of grapes sold in the U.S. are grown in California. Grapes are good sources of vitamin C and fiber.
+    </string>
+    <string name="guava">
+    Guavas contain vitamin C, phosphorous, iron and calcium. They are often referred to as “super fruits” because of their high vitamin content. Guava leaves are sometimes used in hair products because they are believed to prevent hair loss and encourage hair growth.
+    </string>
+    <string name="kiwi">
+    In 1962, farmers in New Zealand began calling the fruit "kiwi" because of the resemblance of the fruit to the kiwi bird, which has a round body with brown feathers. The name "kiwi" began to be used for export marketing and eventually the name was adopted commercially in 1974.
+    </string>
+    <string name="limd">
+    The use of citrus from lime was initially a closely guarded military secret, as scurvy was a common scourge of various national navies, and the ability to remain at sea for lengthy periods without contracting the disorder was a huge benefit for the military.
+    </string>
+    <string name="longan">
+    Refrigerated longans taste very refreshing. Longans are well recognized as a premier tropical fruit in Thailand and China. The Chinese nicknamed the longan Dragons Eye because of its white oval eye-like shape where the pit looks similar to an eyes pupil.
+    </string>
+    <string name="lychee">
+    Lychee is quite low in calories, 100 grams contains only 66 calories. It contains no saturated fats or cholesterol and is rich in dietary fiber, thus making it an ideal option for those who are trying to shed some pounds.
+    </string>
+    <string name="mango">
+    India is the top producer of mangoes in the world. Vitamin C and A are important antioxidants. Green mangoes have more vitamin C than ripe mangoes however as mangoes ripen, they contain more vitamin A.
+    </string>
+    <string name="mangosteen">
+    The mangosteen fruit is highly valued for its juicy, delicate texture and slightly astringent flavour and is commonly eaten fresh, canned, or dried. The plant is used locally in traditional medicine and has been promoted as an alternative cancer treatment, but clinical studies in humans are lacking
+    </string>
+    <string name="orange">
+    In terms of the history of colours, it’s only recently that the colour orange got its own name. Surprisingly, the fruit came first, originating in China, and the English word ‘orange’ to describe the colour, followed thereafter.
+    </string>
+    <string name="papaya">
+    When used topically, mashed papaya appears to be beneficial for promoting wound healing and preventing infection of burned areas. Researchers believe that the proteolytic enzymes chymopapain and papain in papaya are responsible for their beneficial effects.
+    </string>
+    <string name="pineapple">
+    Pineapples are a good source of vitamin C, potassium and fiber. Pineapples contain an enzyme, called bromelain, that can be used as a meat tenderizer. The name pineapple in English came from “pina” in Spanish because it looks similar to a pinecone.
+    </string>
+    <string name="pomelo">
+    Pomelos are an excellent source of vitamin C, an antioxidant that strengthens the immune system, reduces inflammation, and protects the body against free radicals. The fruits are also a good source of copper to maintain a healthy nervous system, potassium to balance fluid levels within the body, and provide lower amounts of phosphorus, fiber, and calcium.
+    </string>
+    <string name="nav_fruit">Fruit classification</string>
+    <string name="nav_learn">Learning</string>
+    <string name="nav_game">Game</string>
+    <string name="nav_blog">Blog</string>
+    <string name="nav_logout">Logout</string>
+    <string name="cf">Choose Fruit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_register">Register</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="pasd">
+    Passion fruit is known in English as passion fruit because it is one of many passion flowers, the English translation of the Latin genus nomenclature, Passiflora, and can be spelled passion fruit, passionfruitmor passion-fruit. Around 1700, the name was given by missionaries in Brazil as an educational aid while trying to convert the indigenous population to Christianity; The fruits name is flor das cinco chagas or flower of the five wounds to illustrate Christs crucifixion and His resurrection, with other plant parts also named after a symbol from the Passion. of Jesus.
+    </string>
+    <string name="appd">
+    An apple is a round, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Asia and Europe and were introduced to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.
+
+    Apples grown from seed tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. Generally, apple cultivars are propagated by clonal grafting onto rootstocks. Apple trees grown without rootstocks tend to be larger and much slower to fruit after planting. Rootstocks are used to control the speed of growth and the size of the resulting tree, for easier harvesting.
+
+    There are more than 7,500 varieties of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruits genome was sequenced as part of research on disease control and selective breeding in apple production.
+    Worldwide production of apples in 2021 was 93 million tonnes, with China accounting for nearly half of the total.
+    </string>
+    <string name="avod">
+    Avocado (persea americana) is a subtropical tree native to Mexico and Central America, classified as flowering, dicotyledon, in the family Lauraceae. People have known to eat avocado fruit since ancient times, as evidenced by people finding an avocado-shaped water bottle in the city of Chan Chan before the Inca era.
+
+    Avocado tree about 20 meters tall, leaves alternate, each leaf 12–25 cm long, flowers inconspicuous, green-yellow, each flower 5–10 mm large.
+
+    The fruit of the avocado tree is like a gourd, 7–20 cm long, and weighs 100 g-1 kg. Shell thin, slightly hard, dark green, sometimes almost black. When ripe, the inside of the meat is soft, light yellow, like butter, with a sweet taste. The avocado pit is egg-shaped, 5-6 cm long, centrally located, dark brown, and very hard.
+
+    An average avocado tree produces 120 fruits a year. Avocado orchards are capable of producing 7 tons of avocados per hectare per year, with gardens reaching up to 20 tons. Avocados are not suitable for growing in cold areas, only growing in tropical and temperate regions.
+
+    Avocado flesh is often used as an ingredient for refreshing smoothies, salads, sushi or can be eaten with bread by spreading it on the cake and sprinkled with a little sugar. In addition, avocado is also used in skin care, but eating a lot of avocado also causes liver disease.
+    </string>
+    <string name="cocd">
+    Coconut (Cocos nucifera) is a species of woody plant, member of the family Arecaceae and the only living species of the genus Cocos. Coconuts are ubiquitous in coastal tropical regions and are a tropical cultural icon. Coconuts provide food, fuel, cosmetics, folk medicine and building materials, among many other uses. The inner flesh of the ripe coconut, as well as the coconut milk that is extracted from it, is a familiar part of the diet of people living in the tropics and subtropics. The coconut fruit is different from other fruits because the endosperm contains a large amount of clear liquid, known as coconut water. Ripe coconuts are used as food, or processed to get coconut oil and coconut milk from the fruit pulp, charcoal from the hard shell and coir from the fibrous shell. The desiccated coconut meat is called copra, the oil and juice extracted from this is often used in cooking - frying in particular - as well as in soaps and cosmetics. Sweet coconut sap can be used as a drink or fermented into coconut wine, coconut vinegar. Hard shells, fibrous husks and long leaves can be used as raw materials to make a variety of interior decoration products.
+    </string>
+    <string name="ched">
+    A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.The name also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in "ornamental cherry" or "cherry blossom". Wild cherry may refer to any of the cherry species growing outside cultivation, although Prunus avium is often referred to specifically by the name "wild cherry" in the British Isles.
+    </string>
+    <string name="drad">
+        Dragon fruit is a plant grown mainly for its fruit and is also the name of several genera of the cactus family. Dragon fruit is a native plant in Mexico, Central American and South American countries. Currently, this species is also grown in countries in Southeast Asia such as Vietnam, Malaysia, Thailand, Philippines, Indonesia (especially in western Java island); southern China, Taiwan and some other areas.
+        </string>
+    <string name="band">
+        Banana is the name of the fruit of the tree species of the genus Banana; This is considered one of the most widely eaten fruits. Banana trees are native to the tropics of Southeast Asia and Australia. Today, bananas are grown throughout the tropics.
+        Bananas are grown in at least 107 countries. In many regions of the world and in commerce, "banana" is the word commonly used to refer to soft and sweet bananas. The cultivars with firmer fruit are called leaf bananas. Bananas can also be sliced thin, then fried or baked to eat like potatoes. Dried bananas are also mashed into banana powder.
+        The fruits of wild banana trees (also known as wild bananas in Vietnam) have many large and hard seeds. But most bananas that are traded for seeds lack seeds (see seedless fruit) because they have been domesticated for a long time and have triploid chromosomes. There are two basic types of bananas: dessert bananas that are yellow and eaten when ripe, and cooked bananas that are cooked while green. Most of the exported bananas belong to the first category; however, only about 10–15% of total banana production is exported. The United States and countries in the European Union import bananas the most.
+        </string>
+    <string name="durd">
+    The durian is the edible fruit of several tree species belonging to the genus Durio. There are 30 recognized Durio species, at least nine of which produce edible fruit.[3][4] Durio zibethinus, native to Borneo and Sumatra, is the only species available on the international market. It has over 300 named varieties in Thailand and 100 in Malaysia as of 1987. Other species are sold in their local regions.
+
+    Named in some regions as the "king of fruits", the durian is distinctive for its large size, strong odor, and thorn-covered rind. The fruit can grow as large as 30 cm (12 in) long and 15 cm (5.9 in) in diameter, and it typically weighs 1 to 3 kg (2.2 to 6.6 lb). Its shape ranges from oblong to round, the color of its husk from green to brown, and its flesh from pale yellow to red, on the species.
+
+    Some people regard the durian as having a pleasant sweet fragrance, while others find the aroma overpowering and unpleasant. The smell evokes reactions ranging from deep appreciation to intense disgust. The persistence of its odor transportation, which may linger for several days, has led certain hotels and public services in Southeast Asia to ban the fruit. The 19th-century British naturalist Alfred Russel Wallace described its flesh as "a rich custard highly flavored with almonds". The flesh can be consumed at various stages of ripeness, and it is used to flavor a wide variety of delicious and sweet desserts in Southeast Asian cuisines. The seeds can also be eaten when cooked.
+    </string>
+    <string name="grad">
+    Grape is a berry obtained from vines of the genus Vitis. Grapes grow in clusters of 6 to 300, they are black, blue, yellow, green, burgundy or white. When ripe, the grapes can be eaten fresh or dried to make raisins, as well as used to make wines, grape jelly, juice, grape nectar, and grape seed oil. In Chinese, its called portuguese (葡萄) and when people talk about portuguese wine, its wine made from grapes. However, wild grape species are considered a nuisance weed, because they cover other plants with their rapid growth. Grapes are damaged by the larvae of a number of insects of the order Lepidoptera - see List of scabies pests of grapes.
+    </string>
+    <string name="guad">
+    Guava is a common tropical fruit cultivated in many tropical and subtropical regions. The common guava Psidium guava (lemon guava, apple guava) is a small tree in the myrtle family (Myrtaceae), native to Mexico, Central America, the Caribbean and northern South America.[2] The name guava is also given to some other species in the genus Psidium such as strawberry guava (Psidium cattleyanum) and to the pineapple guava, Feijoa sellowiana. In 2019, 55 million tonnes of guavas were produced worldwide, led by India with 45% of the total. Botanically, guavas are berries.
+    </string>
+    <string name="kiwd">
+    The kiwi (pronounced Ki-vi) or aspen is an edible berry tree species in the group of climbing trees in the genus Poplar. The most commonly grown group of kiwifruit trees is Actinidia deliciosa Hayward, whose fruit is oval in shape, about the size of a large hens egg: 5–8 cm (2–3 in) long and 4.5–5 in diameter. 5 cm (1+3⁄4–2+1⁄4 in). The peel is thin, translucent, fibrous, sour, the pods are edible light brown, the flesh is light green or yellow with rows of small black edible seeds. The fruit has a soft texture with a sweet and unique flavor.
+
+    Kiwi is native to central and eastern China. The first recorded description of them dates to the 12th century during the Song dynasty. By the early 20th century, kiwifruit cultivation had spread from China to New Zealand, where the first commercial crops began. During World War II, the fruit became popular with British and American soldiers stationed in New Zealand, and later exported widely, first to Britain and then to California in the 1960s.
+    </string>
+    <string name="lemd">
+    Lemon is a small fruit plant, belonging to the genus Citrus (Citrus), when ripe is green or yellow, the fruit has a sour taste. The lemon is used as a food all over the world - mainly its juice, but the pulp (slices of the lemon) and zest (zest) are also used, mainly in cooking and baking. . Lemon juice contains about 5% (about 0.3 mol/liter) citric acid, which gives lemons a sour taste, and the pH of lemons is between 2-3. This makes lemon juice inexpensive, and can be used in place of acids for educational science experiments. Because of the sour taste, many flavored drinks and candies have appeared, including lemonade.
+    </string>
+    <string name="lond">
+    Dimocarpus longan, commonly known as the longan and dragons eye, is a tropical tree species that produces edible fruit. It is one of the better-known tropical members of the soapberry family Sapindaceae, to which the lychee and rambutan also belong. The fruit of the longan is similar to that of the lychee, but less aromatic in taste. It is native to tropical Asia and China.
+
+    The longan (from Cantonese lùhng-ngáahn 龍眼, literally dragon eye), is so named because it resembles an eyeball when its fruit is shelled (the black seed shows through the translucent flesh like a pupil and iris). The seed is small, round and hard, and of an enamel-like, lacquered black. The fully ripe, fresh shell fruit has a bark-like shell, thin, and firm, making the fruit easy to peel by squeezing the pulp out as if one were cracking a sunflower seed. When the shell has more moisture content and is more tender, the fruit becomes less convenient to shell. The tenderness of the shell various due to either premature harvest, variety, weather conditions or storage conditions.
+    </string>
+    <string name="lycd">
+    Litchi is a tropical woody fruit tree, native to southern China; where it is known as 荔枝 (pinyin: luizhī, Sino-Vietnamese: le chi), distributed south to Indonesia and east to the Philippines (where it is called alupag).
+
+    Litchi is an evergreen tree of medium size, growing to 15–20 m tall, with alternately pinnate leaves, each 15–25 cm long, with 2-8 lateral leaflets 5–10 cm long. and no leaflets at the apex. The newly sprouted young leaves are bright copper-red, then gradually turn green when reaching their maximum size. The flowers are small, greenish-white or yellowish-white, in panicles up to 30 cm long.
+
+    The fruit is a drupe, globose or slightly oblong, 3–4 cm long and 3 cm in diameter. The outer skin is red, rough texture, inedible but easily peeled. Inside is a layer of translucent white flesh, sweet and rich in vitamin C, with a texture similar to that of grapes. In the center of the fruit is a brown seed, 2 cm long and 1-1.5 cm in diameter. The seeds - similar to those of the horse chestnut fruit - are mildly toxic and should not be eaten. Fruit ripens from June (in regions near the equator) to October (in regions far from the equator), about 100 days after flowering.
+    </string>
+    <string name="mand">
+    A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands. M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars: the "Indian type" and the "Southeast Asian type". Other species in the genus Mangifera also produce edible fruits that are also called "mangoes", the majority of which are found in the Malesian ecoregion.
+
+    Worldwide, there are several hundred varieties of mango. Depending on the cultivar, mango fruit in various size, shape, sweetness, skin color, and flesh color, which may be pale yellow, gold, green, or orange. Mango is the national fruit of India, Pakistan and the Philippines, while the mango tree is the national tree of Bangladesh
+    </string>
+    <string name="masd">
+    Mangosteen (Garcinia mangostana), also known as sweet garlic, is a species of tree in the Clusiaceae family. It is also a tropical evergreen tree with edible fruit, native to the island nations of Southeast Asia. Its origin is uncertain due to extensive prehistoric cultivation. It grows mainly in Southeast Asia, Southwest India and other tropical areas such as Colombia, Puerto Rico and Florida, where the tree has been introduced. The tree is 6 to 25 m (19.7 to 82.0 ft) tall. The fruit when ripe has a thick outer skin, a deep purple-red color, the rind is inedible. The flesh is ivory white, succulent, slightly fibrous and divided into many segments, a fruit can contain about 4, 8 packs, very rarely 3 or 9. The fruit has a sweet and sour taste and an attractive aroma. Within each fruit, the edible aromatic flesh that surrounds each seed is the vegetative pod, i.e. the inner layer of the ovary. The seeds are almond-shaped and small in size.
+    </string>
+    <string name="orad">
+    Orange is a fruit of many different species of citrus trees in the family Rutaceae (see list of plants known as oranges) it mainly refers to Citrus × sinensis, which is also known as sweet orange, to distinguish it from the related Citrus × aurantium, known as sour orange. Sweet oranges reproduce asexually (apomixis via nucellar embryos) Sweet orange varieties arise from mutations.
+
+    Oranges are a hybrid of a lemon and a grapefruit. The chloroplast genome, and thus the outline, is the grapefruit genome. The sweet orange has a full genome sequence.
+
+    Oranges are native to an area that includes South China, Northeast India, and Myanmar, and the earliest mention of sweet oranges is in Chinese literature in 314 BC. As of 1987, the orange tree was considered the most planted fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh or processed for its juice or aromatic rind. As of 2012, sweet oranges accounted for about 70% of citrus production.
+    In 2019, 79 million tons of oranges were grown worldwide, of which Brazil produced 22% of the total, followed by China and India.
+    </string>
+    <string name="papd">
+    Papaya (scientific name: Carica papaya) is a tree of the papaya family. It is a large herbaceous plant, with little or no branches, 3–10 m tall. The leaves are large, propeller-shaped, with long stalks, 50–70 cm in diameter, with about 7 notches. White or blue flowers, small calyx, large five-petaled rim. Papaya fruit is round, long, soft when ripe, brown or black seeds depending on the variety, with many seeds.
+
+    Papayas are often eaten green as a vegetable (for salads and stews) and cooked as a fruit. In papaya fruit, there is an enzyme called papain, a protease that softens meat and other proteins, so green papaya is often stewed with meat to help soften the meat quickly.
+
+    Papaya is the fruit used in the five-fruit tray on Tet holiday of the Southern Vietnamese (including custard-apple, fig, coconut, papaya, mango). According to the concept of Southerners, the pronunciation of the name of this fruit sounds like "just enough to spend".
+    </string>
+    <string name="pind">
+    the pineapple (Ananas comosus) is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae.
+
+    The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations.
+
+    Pineapple grows as a small shrub; the individual flowers of the unpollinated plant fuse to form a multiple fruit. The plant normally propagates from the offset produced at the top of the fruit or from a side shoot, and typically matures within a year
+    </string>
+    <string name="pomd">
+    Grapefruit, which belongs to the family Rutaceae, is the largest citrus fruit and the main ancestor of the grapefruit. This is a natural, non-hybrid, citrus fruit, native to Southeast Asia. Similar in flavor to sweet grapefruit, grapefruit is commonly consumed and used for festive occasions throughout Southeast Asia. Like grapefruit, phytochemicals in grapefruit have the potential to cause drug interactions.
+    </string>
+
+    <string name="pasf">
+    1.It’s native to Brazil.\n
+    2.Its name comes from a family of passion flowers (passiflora). In Portuguese it’s called “maracujá,” after an Native American word which is not so pleasant, so I’ll skip it. If you want the details they’re in Wikipedia.  Personally, I like “passion fruit” better.\n
+    3.It’s served either sweet or sour.\n
+    4.Technically it’s a berry and one fruit has only 17 calories. The dark seeds are crunchy but edible.\n
+    5.The most popular varieties are purple and yellow. Purple ones are smaller but sweeter and are more commonly found here in the US. Yellow ones are more sour and larger and they’re Brazilians’ favorite.\n
+    6.It’s known to have calming properties and it’s used as a sleeping aid, to calm nerves and relieve anxiety. So if you’re feeling edgy, try it for a few days and see.\n
+    7.It’s a source of vitamins A, C and B complex and has minerals as well: iron, sodium, calcium and phosphorous. More nutrition details available here\n
+    </string>
+    <string name="appf">
+    1.Apple trees take 4-5 years to produce their first fruit. Patience is a virtue! \n
+
+    2.Historically, pilgrims planted the very first United States apple trees around 1630 in the Massachusetts Bay Colony. \n
+
+    3.2,500 varieties of apples are grown in the United States while 7,500 varieties of apples are grown throughout the world. \n
+
+    4.Looking for pearly whites? Well, apples’ fleshy fiber helps scrub your teeth, gums, and tongue. \n
+
+    5.The beloved apple pie we bake for the Fourth of July is actually not American, but European. The very first recipe for apple pie originated in England hundreds of years ago. \n
+
+    6.Dont like eating the skin of the apple? Well, you might want to reconsider. Disposing of the skin of the apple eliminates a lot of the essential fiber and antioxidants that are beneficial to your health. \n
+
+    7.Ever wondered why apples float in water? Around 25% of an apple’s volume is actually air, giving way to the beloved pastime of bobbing for apples. \n
+
+    8.Apples are a subfamily within the Rose family. Who knew? \n
+
+    9.Johnny Appleseed truly lived up to his name! The outdoorsman was a real person who traveled and planted acres of apple orchards along Americas frontier, which were mostly used for the production of hard apple cider. \n
+
+    10.Apples are classified as pome fruits, meaning fleshy fruits. The science of apple growing is also called pomology. Who wouldve guessed? \n
+    </string>
+    <string name="avof">
+    1.Avocados are believed to have originated around 10,000 years ago in the tropical climates of Mexico, Guatemala, and the West Indies.\n
+    2.At the height of avocado toast’s popularity, more than 3,000,000 photos of avocado toast were uploaded to Instagram every day during the summer of 2017.\n
+    3.Peak avocado season is late winter and early spring.\n
+    5.Don’t toss the peels and pits. Instead, use them to make a natural dye. That’s right; avocado peels and pits can be boiled to create a surprising and delicate pink hue.\n
+    6.Move over bananas. Avocados are higher in potassium, which is great for cardiovascular health.\n
+    7.Avocado is actually a fruit, not a vegetable.\n
+    8.Re-use the avocado pit to propagate them into house plants! They won’t produce fruit, but they will make for some lovely greenery in your home.\n
+    9.The most readily available variety of avocado is Hass, also called avocado pear or alligator pear.\n
+    10.Which country produces the most avocados? Mexico!\n
+    </string>
+    <string name="cocf">
+    1.Over 90% of coconut production comes from developing nations in Asia, with the Indonesia, Philippines, India, Brazil, and Sri Lanka being the world’s biggest exporters.\n
+    2.Most coconuts are produced on small plantations.\n
+    3.There are over 150 species of coconuts across 80 different countries.\n
+    4.Coconuts are drupes, not a nut. Other drupes include plums, cherries, almonds, and olives.\n
+    5.Coconuts are not only used as food, but they are also used in the production of various wooden items, in the construction industry, in makeup and other beauty products, and as a fuel.\n
+    6.The trees can be dwarf and tall. Dwarf trees are between 20 to 60 feet in height and tall trees grow to up 98 feet.\n
+    7.To grow a new tree, unhusked ripe nuts are laid on their sides close together in nursery beds covered with soil. After about 4 to 10 months they are transplanted between 26 to 33 feet.\n
+    8.It takes new trees 5 to 6 years to bear fruit, while full fruit bearing takes 15 years.\n
+    9.Coconut trees have 13 to 20 inches long pinnate leaves that can reach 24 to 35 inches long.\n
+    10.The trees develop male and female flowers and can be distinguished by size. Female flowers are larger in size.\n
+    </string>
+    <string name="chef">
+    1. The Roman general Lucullus is said to have brought cherries to Europe from Asia in 74BC.\n
+    2. Lucullus is also reputed to have gone mad and committed suicide when he realised that his supply of cherries was running out.\n
+    3. Eau Claire, Michigan, holds an annual cherry pip spitting competition. The record is 93ft 6.5in.\n
+    4. An average cherry tree produces enough cherries to make 28 cherry pies.\n
+    5. A survey by Air Wick this year listed cherries as the nation’s 39th favourite smell, behind petrol and matches but ahead of biscuits and lilies.\n
+    6. According to research at Boston University, cherries in the diet cuts risk of gout by 35 per cent.\n
+    7. The world’s top three cherry-exporting countries are the US, Chile and TurkeySLps\n
+    8. …but Turkey has the greatest area devoted to cherry production.\n
+    9. The word ‘cherry’ comes from the Turkish town of Cerasus, which was famed for its cherries.\n
+    10. More than 30,000 internet sites tell us that it was once illegal in Kansas to put ice cream on a cherry pie. There is no evidence for this at all. Ten things you never knew about... cherries\n
+    </string>
+    <string name="durf">
+    1.Durian is known as the “king of fruits” in Southeast Asia.\n
+    2.The fruit has a strong, pungent odor that is often described as a combination of rotten eggs, garlic, and old gym socks.\n
+    3.Durian is banned in many public places, including hotels and public transportation, due to its strong odor.\n
+    4.The fruit is high in sugar, fat, and vitamins, making it a popular food source for many animals in the jungle.\n
+    5.Durian has a spiky exterior that makes it difficult to handle and open.\n
+    6.Some people describe the flavor of durian as an acquired taste, while others find it to be incredibly delicious.\n
+    7.Durian is often used in traditional medicine to treat various health conditions, such as high blood pressure and constipation.\n
+    8.In Indonesia, durian is used as a symbol of hospitality and is often offered to guests as a sign of welcome.\n
+    9.Durian trees can grow up to 50 feet tall and can produce fruit for up to 100 years.\n
+    10.Durian is native to Southeast Asia and is grown in countries such as Indonesia, Thailand, and Malaysia.\n
+    </string>
+    <string name="graf">
+    1.Botanically speaking, grapes are berries.\n
+
+    2.The slower the grape ripens, the fuller the flavour. Although grapes need a lot of sun to ripen, moderate temperatures ensure a more intense flavour. That is why they also grow in countries like Switzerland and often end up in delicious wine.\n
+
+    3.No wonder the variety of wine is so big: There are about 16000 varieties of grapes worldwide. More than 10000 can be used to make wine.\n
+
+    4.Healthy powersnack: The two ingredients resveratrol and OPC (oligomeric procyanidins) form an almost unbeatable team. They have a positive effect on blood circulation and thus prevent heart and circulatory diseases. But dont forget: a good third of the valuable active ingredients resveratrol and OPC are in the seeds - so those who disdain them get a little less of it. It is similar with the colour: red or blue grapes contain significantly more antioxidants than their light-coloured relatives.\n
+
+    5.Red, White and Rosé: Red wine is made from blue grapes and fermented with the skins so their pigment is released. With white wine, only the juice is fermented and mostly white grape varieties are used for this. Rosé wines are light-coloured wines made from red grapes and are produced in the same way as white wine. With sparkling wine, on the other hand, part of the fermentation process takes place in the bottle. The resulting carbonic acid makes the drink sparkle.\n
+
+    6.Big vs small: The largest area to cultivate vines is in Spain. The region La Mancha is home to the largest wine-growing area in the world. The vineyards cover around 450,000 hectares. The smallest vineyard is located in Vienna. On just 100 square metres, a white wine is grown in Vienna city centre, which is also available for purchase. In a good and productive year, the mini vineyard yields enough grapes to produce 50-60 bottles of white wine.\n
+    7.The most expensive wines come from France and Germany: The currently most expensive wine is the "Domaine de la Romanee-Conti Grand Cru, Cote de Nuits" from France. With an average price of more than 15,000 dollars, the red wine relegates the German white wine "Egon Müller Scharzhofberger Riesling" from the Mosel to second place. What is striking in the list of the most expensive wines in the world: Germany and France share the top positions completely. Only in 17th place in the ranking does a third wine country enter the phalanx with the "Screaming Eagle Cabernet Sauvignon" from Napa Valley in the USA. The four German representatives in the top 10 are all white wines, while France convinces with red wines.\n
+    8.To make one glass of wine, the juice of about 75 individual fruits is needed. To fill one bottle, the winemaker needs more than one kilogram of grapes.\n
+    9.The typical bulge in the bottom of the bottle is called Culot de Bouitelle.\n
+    10.Most wines do not get better with age: The older a wine, the better it is: this myth is persistent, but only applies to a small proportion of all types of wine. In fact, more than 90 percent of all wines should be drunk within five years, otherwise they will overripen and eventually taste like vinegar. Only special top wines develop a refined flavour through post-ripening during long storage over many years.\n
+    </string>
+    <string name="guaf">
+    1.Guava is used, in some form or another, to treat an array of ailments including fever, constipation and diarrhea, high blood pressure, hypercholesterolemia and dysentery.\n
+
+    2.Guava wood is prized in the world of meat smoking.\n
+
+    3.Guavas contain 4 times more fiber than a pineapple and 4 times more vitamin C than an orange.\n
+
+    4.Guavas are known for their seedy flesh. In the center of a guava there are between 100-500 edible seeds.\n
+
+    5.Guavas grow on 20 foot high evergreen shrubs, with white flowers. The leaves of the shrub are a source of black pigment used in textiles.\n
+
+    6.The lifespan of a plant is 40 years.\n
+    7.The young guava leaves are boiled to make a tea to cleanse wounds.\n
+    8.The origin of the guava is unknown, but unofficially the claim is made by Central America or Southern Mexico.\n
+    9.There are around 150 varieties of guava not just the green oval shaped fruit we all picture.\n
+    10.In El Salvador, the wood of a guava shrub is used to make hair combs.\n
+     </string>
+    <string name="kiwf">
+    1.Nutrition-wise, kiwi fruits contain about as much potassium as bananas and a high amount of Vitamin C, more than oranges. It is also rich in Vitamins A and E, flavonoids and minerals. The kiwi fruit actually has twice the Vitamin E of an avocado, but has only 60% of the avocados calories.\n
+    2.Though sweet, its low in calories.\n
+    3.Kiwi fruits have high fiber content.\n
+    4.Among health and beauty junkies, kiwifruits are popular ingredients in DIY face masks. Kiwis are rich in alpha hydroxy fruit acids, vitamin C, E and K. Kiwis are ideal for exfoliating, nourishing and anti-aging.\n
+    5.The kiwifruit originated from China and was originally called the ‘Chinese Gooseberry’. The name was later changed due to the name being negatively associated with the Cold War.\n
+    6.Did you know that the kiwifruit was named after its uncanny resemblance to the fuzzy brown kiwi – New Zealands National Bird.\n
+    7.Since kiwifruits contain up to 10% of recommended daily folate levels, pregnant ladies are encouraged to consume them for healthier babies!\n
+    8.Kiwifruit is also packed with blood pressure-lowering potassium. In fact, a 100-gram serving of kiwifruit, that’s about one large kiwi, provides 15% of the Recommended Daily Allowance (RDA) of potassium.\n
+    </string>
+    <string name="limf">
+    1.Lime is small tree that usually grows to the height of 16 feet.\n
+    2.Lime has shrub-like appearance due to multiple, irregular branches with numerous short twigs. Some types of lime are spiny.\n
+    3.Lime has ovate leaves with entire margins. Leaves are glossy, light or dark green colored. They are alternately arranged on the branches.\n
+    4.Lime produces small, star-shaped, white or yellow flowers. They are often arranged in clusters. Flowers are fragrant.\n
+    5.Lime blooms and produces fruit all year round. In the northern hemisphere, lime produces greatest quantity of flowers and fruit from May to September.\n
+    6.Fruit of lime is oval or globular-shaped. It has small nipple on top of it. Fully ripe fruit is yellowish green colored.\n
+    7.Fruit is covered with thin peel. Transparent membrane divides greenish flesh into segments. Each segment contains hundreds of miniature sacs filled with juice. Fruit continues to ripen after the harvest.\n
+    8.Lime has tangy sour taste, more acidic compared to lemon. Sweet lime is a sort of lime that has sweet flavor. It grows in tropics.\n
+    9.Lime can be propagated via seed, cuttings and root sprouts.\n
+    10.Lime is rich source of dietary fibers and vitamin C. It contains 4 times less vitamin C than lemon.\n
+    </string>
+    <string name="lonf">
+    1.Dimocarpus longan is commonly known as the longan\n
+    2.It’s a tropical tree species that produces edible fruit.\n
+    3.It is one of the better-known tropical members of the soapberry family Sapindaceae, to which the lychee and rambutan also belong.\n
+    4.The fruit of the longan is similar to that of the lychee.\n
+    5.It is less aromatic in taste though.\n
+    6.It is native to tropical Asia and China.\n
+    7.The longan is so named because it resembles an eyeball when its fruit is shelled (the black seed shows through the translucent flesh like a pupil/iris).\n
+    8.The word longan originates from Cantonese lùhng-ngáahn, literally ‘dragon eye’.\n
+    9.The seed is small, round and hard, and of an enamel-like, lacquered black.\n
+    10.The fully ripened, freshly harvested fruit has a bark-like shell, thin, and firm, making the fruit easy to peel by squeezing the pulp out as if one were “cracking” a sunflower seed.\n
+    </string>
+    <string name="lycf">
+    1.The tropical fruit of lychee is part of the Litchi genus.\n
+    2.The scientific name of lychee is Litchi chinensis, and it belongs to the Sapindaceae family, which is also commonly known as the soapberry family.\n
+    3.There are still wild lychee trees growing on Hainan Island and in certain parts of southern China.\n
+    4.Lychees have an exterior made of a hard shell-like cover that is red in color when the fruit is ripe.\n
+    5.This exterior cover is green in color when the fruit is raw.\n
+    6.It can have a smooth texture or a rough one with small and sharp protuberances.\n
+    7.On the inside, there is a clear jelly-like substance covering the seed of the fruit. This is the edible flesh of lychee fruit which has a slightly pinkish-white color.\n
+    8.In addition to having a sweet flavor, the edible portion of lychee also has a floral smell.\n
+    9.Lychee seeds, on the other hand, are dark brown and not edible\n
+    </string>
+    <string name="manf">
+    1.Mangoes first appeared in India over 5,000 years ago.\n
+    2.Around 300 or 400 A.D., the seeds spread from Asia to the Middle East, East Africa, and South America thanks to traveling humans.\n
+    3.Mangoes are related to cashews and pistachios.\n
+    4.Their trees can grow up to 100 feet with a canopy of over 35 feet.\n
+    5.Trees can still bear fruit after 300 years.\n
+    6.Their flowers are pollinated by insects.\n
+    7.Less than 1% of the flowers will mature.\n
+    8.It takes about 4 to 6 years for a tree to bear fruit.\n
+    9.Trees are harvested once a year.\n
+    10.It takes about 4 months for the fruit to mature and each one is harvested by hand.\n
+    </string>
+    <string name="oraf">
+    1.Orange Trees were first grown in China\n
+    2.In order to get the same amount of fibre as you would from a medium orange, youll need to eat 7 cups of Cornflakes\n
+    3.The orange production capital in the world is Brazil\n
+    4.Some types of oranges will remain green even after ripening.\n
+    5.Orange peel can be reused to remove grease, oil spots and orange tea.\n
+    6.Oranges are around 10 thousand times more acidic than the pH of our blood. Less than lemon juice and more than tomato juice\n
+    7.In terms of the history of colours, its only recently that the colour orange got its own name. Surprisingly, the fruit came first, originating in China, and the English word orange to describe the colour, followed thereafter.  \n
+
+    8.There are now over 600 varieties of oranges worldwide\n
+    9.Oranges originates around 4000 BC in Southeast Asia, and then spread into India\n
+    10.The flowers of an orange tree are white in colour and have a wonderful fragrance\n
+    </string>
+    <string name="masf">
+    1.In South-East Asia, Mangosteen is commonly known as the Queen of Fruit, and is frequently paired with Durian, the King of Fruit.\n
+    2.The 15th century Chinese record Yingya Shenglan described mangosteen as “mang-chi-shih”, which comes from the Malay language “manggis.”\n
+    3.There was a legend about Queen Victoria offering a reward of 100 pounds sterling to anyone that could deliver her a fresh Mangosteen.\n
+    4.Mangosteen is an evergreen tree with a dense, roundish crown. It can reach 20 to 82 feet in height.\n
+    5.Mangosteen is an apomictic plant, which means that female trees produce fruit without pollination\n
+    </string>
+    <string name="papf">
+    1. Though native to Mexico, papaya also grows in Florida and the Caribbean.\n
+
+    2. As per the reports of the Food and Agriculture Organization of the United Nations (FAO), India produces the largest quantity of papayas in the world. Back in 2013, the country produced more than 5 million tons of papayas.\n
+
+    3. Botanically, papaya is a berry.\n
+
+    4. Christopher Columbus nicknamed papayas as the ‘Fruit of the Angels’.\n
+
+    5. Hawaii is the only known U.S. state that commercially cultivates papayas\n
+
+    6. Papain, an enzyme extracted from papayas is known to be an excellent meat tenderizer.\n
+
+    7. The enzyme papain is used in the manufacture of chewing gums.\n
+
+    8. National Papaya Month is observed every year in September\n
+
+    9. The black seeds sheltered inside ripe papayas taste like black pepper and are used as a substitute to black pepper corns in certain countries.\n
+
+    10. There are 2 types of papayas – Mexican and Hawaiian.\n
+    </string>
+    <string name="pinf">
+    1.Pineapples regenerate! You can plant pineapple leaves to grow a new plant.\n
+    2.Pineapples contain the bromelain enzyme which can break down proteins, so you can use them to tenderize meat.\n
+    3.Hawaii produces about 1/3 of all pineapples in the world.\n
+    4.Pineapples are a cluster of hundreds of fruitlets.\n
+    5.Pineapples take about 18-20 months to become ready to harvest.\n
+    6.Pineapples are native to South America before Christopher Columbus discovered them in 1493.\n
+    7.Pineapple is the only edible fruit of its kind, the Bromeliads.\n
+    8.One pineapple plant can produce one pineapple at a time.\n
+    9.Pineapples ripen faster upside down.\n
+    </string>
+    <string name="banf">
+        1.A cluster of bananas is called a ‘hand’, while a single banana is called a ‘finger’. \n
+        2.Bananas are naturally slightly radioactive.\n
+        3.Bananas can float in water.\n
+        4.Bananas contain a natural chemical called ‘Serotonin’ which makes people happy.\n
+        5.A strawberry is not a berry, a banana is.\n
+        6.Bananas are made of 75% water.\n
+        7.India produces more bananas than any other country.\n
+        8.Humans are 50% identical to bananas as they share about half of the same DNA.\n
+        9.Bananas have been depicted in ancient Egyptian hieroglyphs.\n
+        10.More songs have been written about bananas than any other fruit.\n
+    </string>
+    <string name="draf">
+    1.Dragon fruit is native to Central and South America.\n
+    2.The scientific name for dragon fruit is Hylocereus undatus.\n
+    3.Dragon fruit belongs to the cactus family.\n
+    4.Dragon fruit is also known as the pitaya or the strawberry pear.\n
+    5.The dragon fruit tree can grow up to 20 feet tall.\n
+    6.Dragon fruit flowers only bloom at night.\n
+    7.The average dragon fruit weighs about 6 ounces.\n
+    8.Dragon fruit is a good source of antioxidants and vitamins.\n
+    9.Dragon fruit is low in calories and fat.\n
+    10.Dragon fruit is used in many different cuisines.\n
+    </string>
+    <string name="pomf">
+    1. Pomelo was first called “shaddock” in English after Captain Shaddock of an East India Company ship introduced it to Barbados.\n
+
+    2. Historically, pomelo has been used to describe grapefruit and only recently has it come to describe the shaddock fruit.\n
+
+    3. One of the origin theories of the word “pomelo” is an alteration of a compound of English names “pomme” meaning apple and melon.\n
+
+    4. Pomelo is native to South-East Asia, where it’s known under a wide variety of different names.\n
+    5. In large parts of South-East Asia, it’s a popular dessert, often eaten raw and sprinkled with, or dipped in, a salt mixture.\n
+
+    6. Pomelo trees can grow from 15 to 50 feet in height.\n
+
+    7. Pomelo trees develop large evergreen leaves. The leaves are oblong or elliptic-shaped and have winged petioles.\n
+
+    8. Pomelo produces flowers up to 4 times per year. The flowers are individual, large and usually purple colored. Some types of pomelo have white flowers.\n
+
+    9. Pomelo is best known by its pear-shaped or round fruit. The unripe fruit is always green colored, with the color changing to yellow as it ripens.\n
+
+    10. The fruit is large, usually 5.9 to 9.8 inches wide and weighing about 2.2 to 4.4 pounds. Some large specimens of pomelo can reach 12 inches in diameter and weigh up to 22 pounds.\n
+    </string>
+</resources>

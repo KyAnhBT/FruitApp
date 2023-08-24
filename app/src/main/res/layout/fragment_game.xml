@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FRUIT QUIZ"
+        android:textSize="30sp"
+        android:textStyle="bold"
+
+        android:textColor="#038FFD"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+        <TextView
+            android:id="@+id/tv_content_question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Content question"
+            android:textSize="20sp"
+            android:background="@drawable/bg_green_c_10"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp"
+            android:gravity="center"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:id="@+id/tv_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question 1"
+            android:paddingBottom="10dp"
+            android:paddingEnd="20dp"
+            android:paddingStart="20dp"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/bg_orange_c_30"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer 1"
+        android:background="@drawable/bg_green_c_30"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/tv_answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer 1"
+        android:background="@drawable/bg_green_c_30"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/tv_answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer 1"
+        android:background="@drawable/bg_green_c_30"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+    <TextView
+        android:id="@+id/tv_answer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer 1"
+        android:background="@drawable/bg_green_c_30"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+</LinearLayout>

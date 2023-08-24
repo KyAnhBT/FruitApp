@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.Rank">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Rank"
+        android:layout_marginTop="16dp"
+        android:textSize="32sp"
+        android:layout_gravity="center"
+        android:textColor="#4CAF50"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Each time a user scans the fruit classification, his or her accumulated points will increase by one, based on the number of points the user will have the corresponding rank.
+With a legendary rank, users will unlock a secret feature in the fruitclassification section"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Newbie (Under 15 points)"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/rank1"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pro (15-30 points)"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/rank2"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Legendary (Over 30 points)"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/rank3"
+        android:scaleType="fitXY"
+        />
+
+</LinearLayout>

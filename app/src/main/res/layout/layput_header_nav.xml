@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="20dp"
+    android:gravity="bottom"
+    android:background="#4CAF50">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/nav_userphoto"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="centerCrop"
+        app:shapeAppearanceOverlay="@style/circleImageView"
+        app:strokeColor="@android:color/darker_gray"
+        app:strokeWidth="3dp"/>
+
+    <TextView
+        android:id="@+id/nav_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TranKyAnh"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/nav_usermail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="trankyanh2510@gmail.com"
+        android:layout_marginTop="4dp"
+        android:textSize="14sp"
+        android:textColor="#000000"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvRank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Poin"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/point"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:textColor="#FFEB3B"
+            android:gravity="center"/>
+        <ImageView
+            android:id="@+id/imgRank"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:src="@drawable/rank1"
+            android:scaleType="fitXY"/>
+        <Button
+            android:id="@+id/btRank"
+            android:layout_marginTop="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:backgroundTint="#000000"
+            android:text="Rank Intro"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+</LinearLayout>
